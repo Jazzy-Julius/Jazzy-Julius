@@ -6,8 +6,8 @@ I'm an aspiring Data Engineer. I'm a practising Power Engineer who also studied 
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: he/him
-- 💡 Fun fact: ALTSCHOOL Africa dropout.
+
+- 💡  ALTSCHOOL Africa dropout😜.
 - 🌱 I’m currently learning Python and SQL.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Data Analyst (Intern or Junior level).
